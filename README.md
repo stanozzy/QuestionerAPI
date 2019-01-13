@@ -99,3 +99,5 @@ Acknowledgements:
 ---------------
 
 - Andela workshops
+- Learning Facilitators
+- Team mates
